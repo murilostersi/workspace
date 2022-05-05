@@ -2,4 +2,4 @@
 
 - Receita1
 - Pavê
-- Bolo de Ceunoura
+- Bolo de Cenoura
